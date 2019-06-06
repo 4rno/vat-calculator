@@ -171,10 +171,10 @@ class VatCalculator
         'GP' => [ // Guadeloupe
             'rate' => 0.085,
         ],
-        'RE' => [ // Guyane
+        'GY' => [ // Guyane
             'rate' => 0,
         ],
-        'RE' => [ // Mayotte
+        'YT' => [ // Mayotte
             'rate' => 0,
         ],
 
