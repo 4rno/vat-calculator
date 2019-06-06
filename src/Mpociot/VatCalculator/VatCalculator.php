@@ -161,6 +161,23 @@ class VatCalculator
             'rate' => 0.20,
         ],
 
+        // Overseas French DOMs
+        'RE' => [ // Reunion
+            'rate' => 0.085,
+        ],
+        'MQ' => [ // Martinique
+            'rate' => 0.085,
+        ],
+        'GP' => [ // Guadeloupe
+            'rate' => 0.085,
+        ],
+        'RE' => [ // Guyane
+            'rate' => 0,
+        ],
+        'RE' => [ // Mayotte
+            'rate' => 0,
+        ],
+
         // Countries associated with EU countries that have a special VAT rate
         'MC' => [ // Monaco France
             'rate' => 0.20,
