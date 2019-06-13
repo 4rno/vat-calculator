@@ -161,7 +161,7 @@ class VatCalculator
             'rate' => 0.20,
         ],
 
-        // Overseas French DOMs https://vosfactures.fr/article/les-differents-taux-de-tva-applicables
+        // Overseas French DOMs
         'RE' => [ // Reunion
             'rate' => 0.085,
         ],
@@ -170,9 +170,6 @@ class VatCalculator
         ],
         'GP' => [ // Guadeloupe
             'rate' => 0.085,
-        ],
-        'PF' => [ // French Polynesia
-            'rate' => 0.16
         ],
 
         // Countries associated with EU countries that have a special VAT rate
