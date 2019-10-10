@@ -179,15 +179,6 @@ class VatCalculator
         'IM' => [ // Isle of Man - United Kingdom
             'rate' => 0.20,
         ],
-
-        // Non-EU with their own VAT requirements
-        'CH' => [ // Switzerland
-            'rate' => 0.077,
-            'rates' => [
-                'high' => 0.077,
-                'low' => 0.025,
-            ],
-        ],
         'TR' => [ // Turkey
             'rate' => 0.18,
         ],
